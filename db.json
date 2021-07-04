@@ -1,24 +1,8 @@
 {
-  "categories": [
-    {
-      "id": 1,
-      "name": "dien thoai"
-    },
-    {
-      "id": 1,
-      "name": "ipad 1"
-    }
+  "customer": [
+    
   ],
-  "products": [
-    {
-      "id": 1,
-      "name": "iphone x",
-      "categoryId": 1
-    },
-    {
-      "id": 2,
-      "name": "ipad air",
-      "categoryId": 2
-    }
+  "cutBooks": [
+    
   ]
 }
