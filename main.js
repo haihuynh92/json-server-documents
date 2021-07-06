@@ -56,6 +56,6 @@ router.render = (req, res) => {
  
 // Use default router
 server.use(router)
-server.listen(process.env.PORT || 3000, () => {
+server.listen(process.env.PORT || 9000, () => {
   console.log('JSON Server is running');
 })

@@ -1,47 +1,21 @@
 {
-  "mahangs": [
-
-  ],
+  "mahangs": [],
   "cosomays": [
-    
+    {
+      "macs": "21",
+      "tencs": "21",
+      "diachi": "2121",
+      "sdt": "212",
+      "ghichu": "121",
+      "id": "33537b01-4b80-6e68-4003-2ac68bd8a0fb"
+    }
   ],
-  "khachhangs": [
-
-  ],
-  "socats": [
-    
-  ],
-  "sogias": [
-
-  ],
-  "sogiaohangs": [
-
-  ],
-  "soketchaus": [
-
-  ],
-  "sotonghops": [
-
-  ],
-  "soluongs": {
-
-  },
-  "chitietkhachhangs": [
-
-  ],
-  "sokhac1s": [
-
-  ],
-  "sokhac2s": [
-
-  ],
-  "sokhac3s": [
-
-  ],
-  "sokhac4s": [
-
-  ],
-  "sokhac5s": [
-
-  ]
+  "khachhangs": [],
+  "socats": [],
+  "sogias": [],
+  "sogiaohangs": [],
+  "soketchaus": [],
+  "sotonghops": [],
+  "soluongs": {},
+  "chitietkhachhangs": []
 }
